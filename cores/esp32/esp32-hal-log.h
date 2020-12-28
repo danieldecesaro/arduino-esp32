@@ -156,3 +156,4 @@ int log_printf(const char *fmt, ...);
 #endif
 
 #endif /* __ESP_LOGGING_H__ */
+asdasdasd
